@@ -14,3 +14,6 @@ _user_name = "Kennedy"  	# Underscore sigifies a private var.
 # Constant variable = all capitals
 PI = 3.141 
 
+# multivariable assignment
+a, b, c = 1, 2, 3
+
