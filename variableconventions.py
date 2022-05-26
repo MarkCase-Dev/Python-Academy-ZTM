@@ -11,4 +11,6 @@
 user_iq = 190			# snake case
 _user_name = "Kennedy"  	# Underscore sigifies a private var.
 
+# Constant variable = all capitals
+PI = 3.141 
 
